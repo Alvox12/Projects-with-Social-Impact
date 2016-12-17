@@ -13,7 +13,7 @@ y herramientas necesarios.
 
 
 Tambien esta disponible para descargar los ficheros CAD (diseño asistido por computadora),
-(el formato de los archivoses .stl que sirve para definir geometría de objetos 3D)
+(el formato de los archivos es ".stl" que sirve para definir geometría de objetos 3D)
  en los cuales vienen definidos las piezas para las manos izquierda y derecha. 
 
 ![alt tag](https://github.com/OpenBionics/Prosthetic-Hands/blob/master/Pics/hand3DPrinted.jpg)
