@@ -1,6 +1,6 @@
 #OpenBionics - Brazo prostético
 
-(https://github.com/OpenBionics/Prosthetic-Hands)
+(https://github.com/OpenBionics/Prosthetic-Hands)   
 (http://www.openbionics.org/affordableprosthetichands/)
 
 La propuesta de OpenBionics consiste en la creación de brazos prostéticos asequibles
