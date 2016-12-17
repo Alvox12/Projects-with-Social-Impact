@@ -16,6 +16,7 @@ Tambien esta disponible para descargar los ficheros CAD (diseño asistido por co
 (el formato de los archivos es ".stl" que sirve para definir geometría de objetos 3D)
  en los cuales vienen definidos las piezas para las manos izquierda y derecha. 
  
+__________________________
  
  The proposal of OpenBionics consist in the creation of affordable prosthetic arms for everyone (being less than 200 euros) easy to manufacture, they can be created using  off-the-shelf products (in any hardware strore) and with the use of a 3D printer.
 
