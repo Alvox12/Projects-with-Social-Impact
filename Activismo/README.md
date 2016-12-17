@@ -7,3 +7,5 @@ Este proyecto pretende proveer de una infraestructura a aquellos que deseen
  informarse y como deben informar al público, etc..
  
  Toda colaboración es bievenida.
+
+![alt tag](https://github.com/Alvox12/impactoSocial/blob/master/Activismo/activism3.jpg)
