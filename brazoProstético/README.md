@@ -24,4 +24,4 @@ The CAD files (Computer-aided design) are also available, (the ".stl" format is 
 of 3D objects) in which come defined the pieces for right and left hands.
 
 
-![alt tag](https://github.com/OpenBionics/Prosthetic-Hands/blob/master/Pics/hand3DPrinted.jpg)
+![alt tag](https://github.com/Alvox12/impactoSocial/blob/master/brazoProst%C3%A9tico/hand3DPrinted.jpg)
