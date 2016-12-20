@@ -20,5 +20,5 @@ etc. If you do not have an eye tracking device, OptiKey can be used with a mouse
 OptiKey was written as an accessible alternative to the outrageously expensive, unreliable and difficult to use AAC (alternative and
 augmentative communication) products currently on the market. It is, therefore, fully open-source and free. Forever.
 
-[![OptiKey](http://i.imgur.com/L8azsNR.png.png)](https://youtu.be/HLkyORh7vKkt=57s "OptiKey")
+[![OptiKey](http://i.imgur.com/L8azsNR.png)](https://youtu.be/HLkyORh7vKkt=57s "OptiKey")
 
