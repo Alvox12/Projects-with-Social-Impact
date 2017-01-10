@@ -1,4 +1,4 @@
-# impactoSocial
+# Projects with Social Impact
 Este proyecto consiste en la recopilación de otros proyectos que tengan algun tipo de utilidad social (ya sea en github o en otros sitios), ha sido creado en GitHub para que pueda ser accesible para todo el mundo.
 Este proyecto es para la asignatura Ética, Legislación y  Profesión (ELP) de la Universidad Complutense de Madrid (UCM).
 
