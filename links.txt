@@ -39,4 +39,6 @@ https://github.com/ging/social_stream
 
 https://github.com/humhub/humhub
 
+https://github.com/tav/ampify
 
+https://github.com/Bitmessage/PyBitmessage
