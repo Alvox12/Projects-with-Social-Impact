@@ -4,3 +4,16 @@ Este proyecto es para la asignatura Ética, Legislación y  Profesión (ELP) de 
 
 The main objective of this project is to garther other projects which have some kind of social utility (either in github or other places), it has been created in GitHub with the purpose of being accesible for everyone.
 This proyect is for the subject Ethics, Legislation and Profession (ELP) of the Complutense University of Madrid.
+
+The project has been divided into various categories in order to
+make easier to find the different projects.
+
+###Table of contents
+
+[Activism](https://github.com/Alvox12/Projects-with-Social-Impact/blob/master/activism.md)  
+
+[Citizenship](https://github.com/Alvox12/Projects-with-Social-Impact/blob/master/citizenship.md)   
+
+[Disabilities](https://github.com/Alvox12/Projects-with-Social-Impact/blob/master/disabilities.md)  
+
+[Education](https://github.com/Alvox12/Projects-with-Social-Impact/blob/master/education.md)   
