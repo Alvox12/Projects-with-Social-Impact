@@ -36,4 +36,12 @@ https://github.com/ging/social_stream
 http://social-stream.dit.upm.es/  
 Example of social network created using this framework: http://www.vishub.org/  
 
+### REFUGE restrooms
+
+Refuge restrooms provides safe restroom spaces to transgender and queer people, it points out safe or gender neutral
+restrooms around a specified area.
+
+http://www.refugerestrooms.org/      
+https://github.com/RefugeRestrooms/refugerestrooms       
+
 
