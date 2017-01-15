@@ -6,8 +6,7 @@ The proposal of OpenBionics consist in the creation of affordable prosthetic arm
 
 The CAD files (Computer-aided design) are also available, (the ".stl" format is the one used to define the geometry of 3D objects) in which come defined the pieces for right and left hands.
 
-https://github.com/OpenBionics/Prosthetic-Hands 
-
+https://github.com/OpenBionics/Prosthetic-Hands    
 http://www.openbionics.org/affordableprosthetichands/
 
 ###OptiKey
