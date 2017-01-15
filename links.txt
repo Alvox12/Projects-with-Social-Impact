@@ -17,7 +17,7 @@ https://github.com/GliaX/Stethoscope
 
 https://github.com/e-nable/Service-Station
 
-https://github.com/ncase/polygons
+https://github.com/ncase/polygons (Hecho)
 
 https://github.com/rmusser01/Infosec_Reference
 
@@ -35,7 +35,7 @@ https://github.com/chadselph/fPrivacy
 
 https://github.com/panzi/SocialSharePrivacy
 
-https://github.com/ging/social_stream
+https://github.com/ging/social_stream (Hecho)
 
 https://github.com/humhub/humhub
 
