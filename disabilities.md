@@ -1,6 +1,6 @@
-##Disabilities
+## Disabilities
 
-###OpenBionics - prosthetic arm
+### OpenBionics - prosthetic arm
 
 The proposal of OpenBionics consist in the creation of affordable prosthetic arms for everyone (being less than 200 euros) easy to manufacture, they can be created using off-the-shelf products (in any hardware strore) and with the use of a 3D printer.
 
@@ -9,7 +9,7 @@ The CAD files (Computer-aided design) are also available, (the ".stl" format is 
 https://github.com/OpenBionics/Prosthetic-Hands    
 http://www.openbionics.org/affordableprosthetichands/
 
-###OptiKey
+### OptiKey
 
 OptiKey is an assistive on-screen keyboard which runs on Windows. It is designed to be used with an eye-tracking device to assist with keyboard and mouse control for those living with motor and speech limitations, such as Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).
 
