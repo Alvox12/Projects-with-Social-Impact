@@ -10,10 +10,10 @@ make easier to find the different projects.
 
 ###Table of contents
 
-[Activism](https://github.com/Alvox12/Projects-with-Social-Impact/blob/master/activism.md)  
+[Activism](activism.md)  
 
-[Citizenship](https://github.com/Alvox12/Projects-with-Social-Impact/blob/master/citizenship.md)   
+[Citizenship](citizenship.md)   
 
-[Disabilities](https://github.com/Alvox12/Projects-with-Social-Impact/blob/master/disabilities.md)  
+[Disabilities](disabilities.md)  
 
-[Education](https://github.com/Alvox12/Projects-with-Social-Impact/blob/master/education.md)   
+[Education](education.md)   
