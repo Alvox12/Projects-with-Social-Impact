@@ -19,3 +19,5 @@ make easier to find the different projects.
 [Education](education.md)   
 
 [Health](health.md)
+
+[Privacy](privacy.md)
