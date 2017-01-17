@@ -8,18 +8,18 @@ This proyect is for the subject Ethics, Legislation and Profession (ELP) of the 
 The project has been divided into various categories in order to
 make easier to find the different projects.
 
-### Table of contents
+### Table of Contents
 
-[Activism](activism.md)  
+* [Activism](activism.md)  
 
-[Citizenship](citizenship.md)   
+* [Citizenship](citizenship.md)   
 
-[Disabilities](disabilities.md)  
+* [Disabilities](disabilities.md)  
 
-[Education](education.md)   
+* [Education](education.md)   
 
-[Health](health.md)
+* [Health](health.md)
 
-[Licenses](licenses.md)
+* [Licenses](licenses.md)
 
-[Privacy](privacy.md)
+* [Privacy](privacy.md)
