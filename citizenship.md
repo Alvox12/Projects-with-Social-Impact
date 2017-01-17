@@ -44,4 +44,13 @@ restrooms around a specified area.
 http://www.refugerestrooms.org/      
 https://github.com/RefugeRestrooms/refugerestrooms       
 
+### Sheltr
+
+Is an application used to locate the nearest local homeless shelters. It has an MIT license so it is possible to use
+it as much as you want.
+
+https://github.com/sheltr/sheltr   
+
+
+
 
