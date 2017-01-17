@@ -29,7 +29,7 @@ https://github.com/IQAndreas/markdown-licenses
 
 https://github.com/idleberg/Creative-Commons-Markdown
 
-https://github.com/BramBonne/privacypolice
+https://github.com/BramBonne/privacypolice (Hecho)
 
 https://github.com/chadselph/fPrivacy
 
