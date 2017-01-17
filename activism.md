@@ -17,3 +17,12 @@ https://github.com/drewrwilson/toolsforactivism
 Apptivist is an app which purpose is to help activists host and organize events, you will be able to search for new events, recruit users for you campaign, organize and communicate.
 
 https://github.com/eripheebs/apptivist
+
+
+### Zetkin Organizer Dashboard
+
+Zetkin is an organizer front-end of the Zetkin system for organizing activism.
+
+https://github.com/zetkin/organize.zetk.in   
+https://github.com/zetkin/www.zetk.in      
+http://zetkin.org/en/      
