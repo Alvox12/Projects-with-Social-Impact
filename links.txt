@@ -21,13 +21,13 @@ https://github.com/ncase/polygons (Hecho)
 
 https://github.com/rmusser01/Infosec_Reference
 
-https://github.com/PSDev/LicensesDialog
+https://github.com/PSDev/LicensesDialog (Hecho)
 
-https://github.com/3rd-Eden/licenses
+https://github.com/3rd-Eden/licenses (Hecho)
 
-https://github.com/IQAndreas/markdown-licenses
+https://github.com/IQAndreas/markdown-licenses (Hecho)
 
-https://github.com/idleberg/Creative-Commons-Markdown
+https://github.com/idleberg/Creative-Commons-Markdown (Hecho)
 
 https://github.com/BramBonne/privacypolice (Hecho)
 
