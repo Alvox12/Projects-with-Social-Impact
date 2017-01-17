@@ -3,7 +3,7 @@ https://github.com/drewrwilson/toolsforactivism (Hecho)
 
 https://github.com/eripheebs/apptivist (Hecho)
 
-https://github.com/HospitalRun/hospitalrun-frontend
+https://github.com/HospitalRun/hospitalrun-frontend (Hecho)
 
 https://github.com/RefugeRestrooms/refugerestrooms (Hecho)
 
