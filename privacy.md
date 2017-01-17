@@ -3,7 +3,7 @@
 ### Privacy Badger
 It is a project of the Electronic Frontier Foundation (EFF) which blocks invisibles trackers, it is an extension that blocks 
 automatically third party trackers (it selects in each petition do not track).    
-The extension is in Chrome, Firefox and the EFF has planned to release this extension for other bwroser soon.    
+The extension is in Chrome, Firefox and the EFF has planned to release this extension for other browsers soon.    
 
 https://github.com/EFForg/privacybadger
 
