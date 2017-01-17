@@ -20,3 +20,12 @@ https://github.com/hospitalrun/hospitalrun-frontend/blob/master/.github/CONTRIBU
 This project aims to create a research-validated stethoscope whose plans are available freely and openly. The goal is for the bell to cost ~USD$1-2 to produce, and the rest of the stethoscope to cost approximately the same.
 
 https://github.com/GliaX/Stethoscope
+
+
+### e-NABLE Handomatic Web Interface
+
+This project is a Web Frontend for openscad generation of models given arm measurements. It lets you create 3D printable prosthetics custom to your measurements and selected options. The prosthetics are intended for use by people with a partial hand.
+
+http://webapp.e-nable.me/
+
+https://github.com/e-nable/Service-Station
