@@ -20,4 +20,6 @@ make easier to find the different projects.
 
 [Health](health.md)
 
+[Licenses](licenses.md)
+
 [Privacy](privacy.md)
