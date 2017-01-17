@@ -41,9 +41,9 @@ Example of social network created using this framework: http://www.vishub.org/
 Refuge restrooms provides safe restroom spaces to transgender and queer people, it points out safe or gender neutral
 restrooms around a specified area.
 
+https://github.com/RefugeRestrooms/refugerestrooms  
 http://www.refugerestrooms.org/      
-https://github.com/RefugeRestrooms/refugerestrooms       
-
+     
 ### Sheltr
 
 Is an application used to locate the nearest local homeless shelters. It has an MIT license so it is possible to use
