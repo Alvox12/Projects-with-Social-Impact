@@ -11,7 +11,7 @@ https://github.com/reddit/reddit
 
 https://github.com/zetkin/organize.zetk.in
 
-https://github.com/hotosm/osm-tasking-manager2
+https://github.com/hotosm/osm-tasking-manager2 (Hecho)
 
 https://github.com/GliaX/Stethoscope (Hecho)
 
