@@ -18,3 +18,10 @@ It works out of the box once you have your eye-tracking device installed and all
 OptiKey was written as an accessible alternative to the outrageously expensive, unreliable and difficult to use AAC (alternative and augmentative communication) products currently on the market. It is, therefore, fully open-source and free. Forever.
 
 https://github.com/OptiKey/OptiKey
+
+
+### Assistive Context-Aware Toolkit (ACAT)
+
+ACAT is an open source platform developed at Intel Labs to enable people with motor neuron diseases and other disabilities to have full access to the capabilities and applications of their computers through very constrained interfaces suitable for their condition. It enables users to easily communicate with others through keyboard simulation, word prediction and speech synthesis. Users can perform a range of tasks such as editing, managing documents, navigating the Web and accessing emails.    
+
+https://github.com/01org/acat
