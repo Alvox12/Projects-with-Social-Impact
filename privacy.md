@@ -13,7 +13,7 @@ This is an application which prevents your smartphone from leaking information v
   see which WiFi network you are connected to.     
   - If it finds a suspicious access point it ask you if you prefer to connect to this network or not.    
   
-  https://github.com/BramBonne/privacypolice   
+https://github.com/BramBonne/privacypolice   
   
 ### fPrivacy Chrome Extension
 fPrivacy is a Chrome extension which lets you opt out of Facebook permissions when the authorization dialog is popped.
