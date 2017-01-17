@@ -15,3 +15,8 @@ https://github.com/HospitalRun/hospitalrun-frontend
 http://hospitalrun.io/   
 https://github.com/hospitalrun/hospitalrun-frontend/blob/master/.github/CONTRIBUTING.md    
 
+### Stethoscope
+
+This project aims to create a research-validated stethoscope whose plans are available freely and openly. The goal is for the bell to cost ~USD$1-2 to produce, and the rest of the stethoscope to cost approximately the same.
+
+https://github.com/GliaX/Stethoscope
