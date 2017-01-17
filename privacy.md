@@ -25,4 +25,11 @@ https://github.com/chadselph/fPrivacy
 
 Social Share Privacy is a jQuery plugin that lets you add social share buttons to your website that don't allow the social sites to track your users. The buttons are first disabled and a user needs to click them to enable them. So in order to e.g. like a site on facebook with these social share buttons a user needs to click two times. But in return for this extra click a user can only be tracked by this third party sites when he decides to enable the buttons. 
 
-https://github.com/panzi/SocialSharePrivacy
+https://github.com/panzi/SocialSharePrivacy     
+
+
+### PyBitmessage
+
+Bitmessage is a P2P communications protocol used to send encrypted messages to another person or to many subscribers. It is decentralized and trustless, because it needs really strong authentication, it is really hard to fake an identity. Also it hides non content data, like the sender and receiver of messages, from passive eavesdroppers like those running warrantless wiretapping programs.    
+
+https://github.com/Bitmessage/PyBitmessage    
