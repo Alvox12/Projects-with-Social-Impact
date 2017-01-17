@@ -52,5 +52,12 @@ it as much as you want.
 https://github.com/sheltr/sheltr   
 
 
+### OpenStreetMap Tasking Manager
+
+This application is designed and built for Humanitarian OpenStreetMap Team collaborative emergency/disaster mapping, the OSM Tasking Manager 2.0 divides an area into individual squares that can be rapidly mapped by thousands of volunteers. 
+
+https://github.com/hotosm/osm-tasking-manager2
+
+tasks.hotosm.org
 
 
