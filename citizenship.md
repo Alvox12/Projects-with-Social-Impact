@@ -60,6 +60,13 @@ https://github.com/hotosm/osm-tasking-manager2
 
 tasks.hotosm.org
 
+### Ampify    
+ 
+ 
++Ampify is an open source, decentralised, social platform. It is intended as a successor to the Open Web and as a replacement for closed platforms like iOS and Facebook by providing a web application framework to create social apps on top of a secure, decentralised core.    
++
++https://github.com/tav/ampify      
+
 
 ### HumHub - Social Network Kit
 
