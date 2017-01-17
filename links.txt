@@ -31,7 +31,7 @@ https://github.com/idleberg/Creative-Commons-Markdown (Hecho)
 
 https://github.com/BramBonne/privacypolice (Hecho)
 
-https://github.com/chadselph/fPrivacy
+https://github.com/chadselph/fPrivacy (Hecho)
 
 https://github.com/panzi/SocialSharePrivacy
 
