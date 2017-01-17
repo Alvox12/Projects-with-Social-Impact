@@ -13,7 +13,7 @@ https://github.com/zetkin/organize.zetk.in
 
 https://github.com/hotosm/osm-tasking-manager2
 
-https://github.com/GliaX/Stethoscope
+https://github.com/GliaX/Stethoscope (Hecho)
 
 https://github.com/e-nable/Service-Station
 
