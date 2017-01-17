@@ -26,3 +26,11 @@ Zetkin is an organizer front-end of the Zetkin system for organizing activism.
 https://github.com/zetkin/organize.zetk.in   
 https://github.com/zetkin/www.zetk.in      
 http://zetkin.org/en/      
+
+### Loomio
+
+Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them.
+It is open source and free, and is available for smartphones and web version.
+
+https://github.com/loomio/loomio  
+https://www.loomio.org/  
