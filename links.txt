@@ -37,7 +37,7 @@ https://github.com/panzi/SocialSharePrivacy (Hecho)
 
 https://github.com/ging/social_stream (Hecho)
 
-https://github.com/humhub/humhub
+https://github.com/humhub/humhub (Hecho)
 
 https://github.com/tav/ampify (Hecho)
 
