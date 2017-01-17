@@ -15,11 +15,11 @@ https://github.com/hotosm/osm-tasking-manager2 (Hecho)
 
 https://github.com/GliaX/Stethoscope (Hecho)
 
-https://github.com/e-nable/Service-Station
+https://github.com/e-nable/Service-Station (Hecho)
 
 https://github.com/ncase/polygons (Hecho)
 
-https://github.com/rmusser01/Infosec_Reference
+https://github.com/rmusser01/Infosec_Reference (Hecho)
 
 https://github.com/PSDev/LicensesDialog (Hecho)
 
