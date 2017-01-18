@@ -105,4 +105,8 @@ https://github.com/codeforamerica/straymapper
 
 https://github.com/codeforamerica/straymapper
 
+### Africa WaterMap
 
+This project is an interactive map of Africa's access to water and sanitation 
+
+https://github.com/aptivate/africawatermap
