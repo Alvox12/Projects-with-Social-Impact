@@ -110,3 +110,11 @@ https://github.com/codeforamerica/straymapper
 This project is an interactive map of Africa's access to water and sanitation 
 
 https://github.com/aptivate/africawatermap
+
+### HomelessPartners
+
+Platform for pledging gifts to homeless people and another volunteer activities.  
+
+https://github.com/stringbeans/homelesspartners
+
+
