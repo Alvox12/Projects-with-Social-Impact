@@ -32,8 +32,18 @@ https://github.com/e-nable/Service-Station
 
 ### Hospital
 
-The Hospital Project aims to relate various City Hospitals in the Country with the various Village Hospitals , as to provide all the services like prescription report from city hospital doctors to the patients of village hospital. A set of village Hospitals comes under a City Hospital , according to their location . Currently we have covered some of the Hospitals of Delhi ,India .
+The Hospital Project aims to relate various City Hospitals in the Country with the various Village Hospitals , as to provide all the services like prescription report from city hospital doctors to the patients of village hospital. A set of village Hospitals comes under a City Hospital , according to their location.
 
 http://hospitalp.esy.es/hospitalp/#/
 
 https://github.com/Small-Start/Hospital
+
+### Bhima
+
+Bhima aims to provide a flexible and robust accounting and managerial solution for rural hospitals. This includes, but is not limited to, basic income/expense reporting, budgeting, patient and organisational billing, depreciation, inventory and pricing, and purchasing.
+Additionally, bhima bundles reports and optional reporting plugins to aid hospital administrators, aid organisations, and governmental/non-governmental agencies access up to date utilization data.
+Finally, the entire project is designed to scale from a single, low cost device in a clinic, to a large multi-hundred bed institution with tens of users accessing the server simultaneously.
+
+https://github.com/IMA-WorldHealth/bhima-2.X
+
+
