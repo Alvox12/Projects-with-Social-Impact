@@ -33,3 +33,10 @@ https://github.com/panzi/SocialSharePrivacy
 Bitmessage is a P2P communications protocol used to send encrypted messages to another person or to many subscribers. It is decentralized and trustless, because it needs really strong authentication, it is really hard to fake an identity. Also it hides non content data, like the sender and receiver of messages, from passive eavesdroppers like those running warrantless wiretapping programs.    
 
 https://github.com/Bitmessage/PyBitmessage    
+
+
+### Privacy-coach
+
+Privacy-coach is an add-on for Firefox and Android that helps you use privacy features in your browser.
+
+https://github.com/leibovic/privacy-coach
