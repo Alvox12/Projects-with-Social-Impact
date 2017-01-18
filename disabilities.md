@@ -28,6 +28,6 @@ https://github.com/01org/acat
 
 ### Hackcessangels
 
-iOS app to help people with disabilities get help from nearby agents in train stations. 
+iOS app to help people with disabilities get help from nearby agents in train stations. Through the application, the user calls for help with a simple button, immediately agents are alerted and can geotag the user. If user or agent don't have any connection, the application broadcast help information through bluetooth service.
 
 https://github.com/alex3165/hackcessangels
