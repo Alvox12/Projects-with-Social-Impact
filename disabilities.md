@@ -25,3 +25,9 @@ https://github.com/OptiKey/OptiKey
 ACAT is an open source platform developed at Intel Labs to enable people with motor neuron diseases and other disabilities to have full access to the capabilities and applications of their computers through very constrained interfaces suitable for their condition. It enables users to easily communicate with others through keyboard simulation, word prediction and speech synthesis. Users can perform a range of tasks such as editing, managing documents, navigating the Web and accessing emails.    
 
 https://github.com/01org/acat
+
+### Hackcessangels
+
+iOS app to help people with disabilities get help from nearby agents in train stations. 
+
+https://github.com/alex3165/hackcessangels
