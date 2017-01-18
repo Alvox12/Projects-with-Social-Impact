@@ -21,7 +21,7 @@ https://github.com/eripheebs/apptivist
 
 ### Zetkin Organizer Dashboard
 
-Zetkin is an organizer front-end of the Zetkin system for organizing activism.
+Zetkin is an organizer front-end of the Zetkin system for organizing activism. The tool allows users to have a follow up to the activists interested in their campaign.
 
 https://github.com/zetkin/organize.zetk.in   
 https://github.com/zetkin/www.zetk.in      
