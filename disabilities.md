@@ -38,3 +38,13 @@ https://github.com/alex3165/hackcessangels
 MouseGlove is a new kind of interface born for helping people affected by disabilities who cannot use common interfaces such as mouse and keyboard. MouseGlobe offers a natural way to move the screen pointer, click and drag objects. Each action is natural as using your hands to keep, move and touch real objects on a desktop.
 
 https://github.com/marcoramilli/mouseglove
+
+### Pulse2Percept
+
+Models for retinal prosthetics.
+By 2020 roughly 200 million people will suffer from retinal diseases such as macular degeneration or retinitis pigmentosa. Consequently, a variety of retinal sight restoration procedures are being developed to target these diseases. Electronic prostheses (currently being implanted in patients) directly stimulate remaining retinal cells using electrical current, analogous to a cochlear implant.
+Our plan is to develop and test a neurophysiologically inspired algorithm for improved stimulation protocols in patients implanted with the 2nd Sight electronic prosthesis. Our algorithm is novel in that will rely on an existing quantitative and validated model (developed by Project Leads Fine and Boynton) of the perceptual effects of retinal stimulation.
+
+http://uwescience.github.io/pulse2percept/
+
+https://github.com/uwescience/pulse2percept
