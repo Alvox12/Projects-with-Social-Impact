@@ -51,7 +51,7 @@ https://github.com/uwescience/pulse2percept
 
 ### Prosthetic Hand
 
-project for an adult prosthetic hand
+A project for an adult prosthetic hand.
 
 https://github.com/techy101/ProstheticHand
 
