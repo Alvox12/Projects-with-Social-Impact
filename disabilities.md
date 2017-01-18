@@ -48,3 +48,15 @@ Our plan is to develop and test a neurophysiologically inspired algorithm for im
 http://uwescience.github.io/pulse2percept/
 
 https://github.com/uwescience/pulse2percept
+
+### Prosthetic Hand
+
+project for an adult prosthetic hand
+
+https://github.com/techy101/ProstheticHand
+
+### ProjectBianca
+
+A project for a prosthetic arm InMoov based controlled by a smartphone sensors.
+
+https://github.com/glaudiston/project-bianca
