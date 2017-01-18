@@ -77,3 +77,29 @@ https://www.humhub.org/en
 
 https://github.com/humhub/humhub
 
+### Hospitium
+
+Hospitium is an Animal Management Software for Rescue, Developed to fit the needs of the rescue
+
+https://hospitium.co/
+
+https://github.com/ninetwentyfour/Hospitium
+
+### SavePets
+
+Three Montgomery Upper Middle School students are working on an app for SAVE (an animal shelter) to provide the following capabilities -
+-Allow potential adopters to view pet inventory and contact SAVE if interested
+-Allow people to see what donations SAVE needs
+-Allow potential volunteers to sign-up
+
+https://github.com/codeforprinceton/savePets
+
+### StrayMapper
+
+A web tool to help reunite more stray animals with their human companion
+
+https://github.com/codeforamerica/straymapper
+
+https://github.com/codeforamerica/straymapper
+
+
