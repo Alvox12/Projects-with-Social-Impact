@@ -1,6 +1,6 @@
 # Projectos con Impacto Social
 
-El principal objetivo de este proyecto es recolectar otros proyectos que tengan algun tipo de impacto social (esten en github u otros sitios).
+El principal objetivo de este proyecto es recolectar otros proyectos que tengan algun tipo de impacto social (esten en Github u otros sitios).
 Ha sido creado en GitHub con el proposito de ser accesible para todo el mundo.
 
 Este proyecto es para la asignatura Ética, Legislación y Profesión (ELP) de la Universidad Complutense de Madrid.
