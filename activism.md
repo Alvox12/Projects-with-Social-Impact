@@ -34,3 +34,10 @@ It is open source and free, and is available for smartphones and web version.
 
 https://github.com/loomio/loomio  
 https://www.loomio.org/  
+
+
+### Digital Tools for Activism
+
+This is a growing list of digital tools for activism things. Some of these tools are open source projects that requires some technical knowledge to set up and host yourself. Some are software-as-a-service tools that you use by going to a webpage in your browser.
+
+https://github.com/drewrwilson/toolsforactivism
