@@ -31,3 +31,10 @@ https://github.com/01org/acat
 iOS app to help people with disabilities get help from nearby agents in train stations. Through the application, the user calls for help with a simple button, immediately agents are alerted and can geotag the user. If user or agent don't have any connection, the application broadcast help information through bluetooth service.
 
 https://github.com/alex3165/hackcessangels
+
+
+### Mouse Glove
+
+MouseGlove is a new kind of interface born for helping people affected by disabilities who cannot use common interfaces such as mouse and keyboard. MouseGlobe offers a natural way to move the screen pointer, click and drag objects. Each action is natural as using your hands to keep, move and touch real objects on a desktop.
+
+https://github.com/marcoramilli/mouseglove
