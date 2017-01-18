@@ -13,8 +13,8 @@ https://github.com/consul/consul
 ### OpenAQ - Open platform for air quality data
 
 OpenAQ is an open source project (the first of its kind) which provides air quality data for different 
-places all around the globe. Its objective is to empower different comunities to fight air pollution,
-it has been used in places like Delhi, Sarajevo, etc. 
+places all around the globe. Its objective is to empower different comunities to fight air pollution.
+It has been used in places like Delhi, Sarajevo, etc. 
 
 https://github.com/openaq  
 https://github.com/openaq/openaq-info
