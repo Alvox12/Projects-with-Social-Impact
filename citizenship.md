@@ -87,7 +87,8 @@ https://github.com/ninetwentyfour/Hospitium
 
 ### SavePets
 
-Three Montgomery Upper Middle School students are working on an app for SAVE (an animal shelter) to provide the following capabilities -
+Three Montgomery Upper Middle School students are working on an app for SAVE (an animal shelter) to provide the following capabilities:
+
 -Allow potential adopters to view pet inventory and contact SAVE if interested
 -Allow people to see what donations SAVE needs
 -Allow potential volunteers to sign-up
