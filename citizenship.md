@@ -79,7 +79,7 @@ https://github.com/humhub/humhub
 
 ### Hospitium
 
-Hospitium is an Animal Management Software for Rescue, Developed to fit the needs of the rescue
+Hospitium is an Animal Management Software for Rescue. Developed to fit the needs of the rescue.
 
 https://hospitium.co/
 
