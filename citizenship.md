@@ -117,4 +117,9 @@ Platform for pledging gifts to homeless people and another volunteer activities.
 
 https://github.com/stringbeans/homelesspartners
 
+### HomeLess 
+
+HomeLess is a medium project, created with the idea of helping the needy from Uruguay
+
+https://github.com/homelessuy/HomeLess
 
