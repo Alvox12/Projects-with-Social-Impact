@@ -12,7 +12,7 @@ Main site: https://codebuddies.org/
 Project homepage: https://github.com/codebuddiesdotorg/codebuddies 
 
 ### Moodle
-Moodle is a learning plataform which has been designed both for educators and students, this project expects 
+Moodle is a learning plataform which has been designed both for educators and students. This project expects 
 to create an environment for personalized learning. It is free and open source, and several universities such as
 the Complutense University of Madrid, the New York state university and companies like Microsoft make use of this system.
 
