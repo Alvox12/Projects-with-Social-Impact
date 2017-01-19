@@ -1,10 +1,15 @@
 ## Ethics, Legislation and Profession Projects
 
 This is a list of projects of the subject Ethics, Legislation and Profession (ELP), we will show here some projects that 
-require collaboration or just use GitHub as a platform. This catgory it's meant to be useful to the Complutense University 
+require collaboration or just use GitHub as a platform. This category it's meant to be useful to the Complutense University 
 of Madrid students.
 
 ### API for accessing open data
+This work has as main objective to provide an API to access the open datasets that the
+City Hall of Madrid offers through its website. In addition, it is intended that both people who do not know what 
+these types of data consist of and expert users who work with them regularly can take advantage of it. 
+It is therefore that a web page is offered in which, in addition to downloading our APIs and corresponding data files, the
+Interested parties can learn about the open data, its advantages and how to release its own.
 
 APIs obtained from the open data portal of the City Hall of Madrid:
 
@@ -19,12 +24,6 @@ Code repository of created APIs (https://github.com/ProjectsFabMaldo/opendata).
 Web where we use and process the information provided by the APIs:   
 
 Link of the web Open Data FDI  (http://opendatafdi.azurewebsites.net/).   
-
-This work has as main objective to provide an API to access the open datasets that the
-City Hall of Madrid offers through its website. In addition, it is intended that both people who do not know what 
-these types of data consist of and expert users who work with them regularly can take advantage of it. 
-It is therefore that a web page is offered in which, in addition to downloading our APIs and corresponding data files, the
-Interested parties can learn about the open data, its advantages and how to release its own.
 
 ### Survey to computer engineering students before taking ELP.
 
