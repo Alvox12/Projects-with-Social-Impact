@@ -1,4 +1,4 @@
-# Projectos con Impacto Social
+# Proyectos con Impacto Social
 
 El principal objetivo de este proyecto es recolectar otros proyectos que tengan algun tipo de impacto social (esten en Github u otros sitios).
 Ha sido creado en GitHub con el proposito de ser accesible para todo el mundo.
