@@ -1,4 +1,4 @@
-## Citizenship
+## Ciudadanía
 
 ### Consul - Gobernación abierta y software web de participación electrónica 
 
