@@ -62,7 +62,7 @@ https://github.com/empowerhack/vocapp
 ### Norad-Eduapp4syria
 
 An estimated 2.8 million Syrian children are out of school because of conflict. Many have to cope with traumas and high levels of stress, which also affects their learning ability.
-La alta disponibilidad de teléfonos inteligentes entre las familias sirias afectadas por la guerra puede ser un medio para llegar a los niños con complementos de aprendizaje atractivos y divertidos. Esto puede ayudar a facilitar su aprendizaje continuo y su futura reintegración en la escuela.
+High availability of smartphones among war-affected Syrian families can be a means for reaching children with engaging and fun learning supplements. This can help facilitate their continued learning and future reintegration into school.
 
 https://www.norad.no/eduapp4syria
 
