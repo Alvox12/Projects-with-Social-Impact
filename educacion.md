@@ -62,7 +62,7 @@ https://github.com/empowerhack/vocapp
 
 ### Norad-Eduapp4syria
 
-Un estimado 2,8 millones de niños sirios están sin ir al colegio por culpa del conflicto.Muchos de ellos tienen que enfrentarse con traumas y altos niveles de stress, que también afecta a su habilidad para aprender.
+Aproximadamente 2,8 millones de niños sirios están sin ir al colegio por culpa del conflicto.Muchos de ellos tienen que enfrentarse con traumas y altos niveles de stress, que también afecta a su habilidad para aprender.
 La alta disponibilidad de teléfonos inteligentes entre las familias sirias afectadas por la guerra puede ser un medio para llegar a los niños con complementos de aprendizaje atractivos y divertidos. Esto puede ayudar a facilitar su aprendizaje continuo y su futura reintegración en la escuela.
 
 https://www.norad.no/eduapp4syria
