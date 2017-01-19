@@ -46,4 +46,8 @@ Finally, the entire project is designed to scale from a single, low cost device 
 
 https://github.com/IMA-WorldHealth/bhima-2.X
 
+### Sarpaminfohub
 
+An information portal to improve the transparency and availability of information relating to access to medicines in Southern Africa 
+
+https://github.com/aptivate/sarpaminfohub
