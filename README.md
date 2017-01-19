@@ -16,6 +16,8 @@ make easier to find the different projects.
 
 * [Education](education.md)   
 
+* [Ethics, Legislation and Profession Projects](ELP_Projects.md)    
+
 * [Health](health.md)
 
 * [Licenses](licenses.md)
