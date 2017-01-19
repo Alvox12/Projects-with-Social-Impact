@@ -42,3 +42,13 @@ Gibbon is a flexible, open source school management platform designed to make li
 https://gibbonedu.org/
 
 https://github.com/GibbonEdu/core
+
+### Osra
+
+OSRA (Orphan Sponsorship & Relief Association) is a non-profit organization registered in the UK. Its aim is to sponsor orphans in Syria and to ensure basic life and education requirements for Syrian children.
+
+This project is the web application that stores and manages data used by OSRA. These include records of the organization's partners in Syria, of the orphans supported by the organization, as well as of the sponsors who make donations towards this cause. The application also keeps track of sponsorship links formed between sponsors and individual orphans.
+
+http://www.agileventures.org/projects/osra-support-system
+
+https://github.com/AgileVentures/osra
