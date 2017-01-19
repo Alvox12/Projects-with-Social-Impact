@@ -52,3 +52,20 @@ Este proyecto es una aplicación web que guarda y gestiona información utilizad
 http://www.agileventures.org/projects/osra-support-system
 
 https://github.com/AgileVentures/osra
+
+### VocApp
+
+El propósito de VocApp es apoyar a los refugiados que estudian en la universidad en un segundo idioma. Los estudiantes refugiados empiezan cursos en Europa en una segunda lengua (Inglés, Alemán y Francés) habitualmente lucha en las etapas iniciales con el vocabulario académico y técnico utilizado en sus cursos. Ellos reciben muchas ofertas de cursos de idiomas para acceder a la universidad pero es de conversación de inglés o turco, y no es lo mismo que su profesor dice en la clase.
+Esto significa que los estudiantes refugiados, a parte de otras presiones, no solo están aprendiendo sus nuevas asignaturas e intentando conseguir tener fluidez en un nuevo idioma, sino que también están aprendiendo un vocabulario académico nuevo. VocApp será una plataforma basada en web que proveera una traducción contextualizada en términos Árabe<>InglésAleman/Francés, ayuda online de compañeros sirios y académicos sirios, y un software intuitivo de aprendizaje para ayudar a acelerar la transición de los estudiantes en un nuevo curso en un idioma desconocido.
+
+https://github.com/empowerhack/vocapp
+
+### Norad-Eduapp4syria
+
+Un estimado 2,8 millones de niños sirios están sin ir al colegio por culpa del conflicto.Muchos de ellos tienen que enfrentarse con traumas y altos niveles de stress, que también afecta a su habilidad para aprender.
+Alta disponibilidad de smartphones entre los afectados por la guerra Syrian families can be a means for reaching children with engaging and fun learning supplements. This can help facilitate their continued learning and future reintegration into school.
+
+https://www.norad.no/eduapp4syria
+
+https://github.com/Norad-Eduapp4syria/Norad-Eduapp4syria
+
