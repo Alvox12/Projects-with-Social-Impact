@@ -13,7 +13,7 @@ El proyecto se ha dividido en varias categorías para que fuera más fácil enco
 
 * [Ciudadanía](ciudadania.md)   
 
-* [Disabilities](disabilities.md)  
+* [Discapacidades](discapacidades.md)  
 
 * [Educación](educacion.md)   
 
