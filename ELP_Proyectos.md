@@ -26,7 +26,7 @@ Web de donde usamos y procesamos la información proporcionada por las APIs:
 Link de la web de Datos abiertos de la FDI  (http://opendatafdi.azurewebsites.net/).   
 
 
-### Survey to computer engineering students before taking ELP. (Encuesta a alumnos de Ingeniería Informática antes de cursar ELP)
+### Encuesta a alumnos de Ingeniería Informática antes de cursar ELP
 
 El trabajo ha consistido en realizar encuestas de nuevos estudiantes sobre conceptos de software libre, sus
 licencias y otros temas relacionados vistos en este tema. El trabajo también tiene una intención informativa,
@@ -36,13 +36,13 @@ mismo, aclarando las dudas que podrían haber surgido durante su realización.
 Link de Github: https://github.com/sandrabermejo/freesoftware-survey     
 Link de la página principal: http://sandrabermejo.github.io/freesoftware-survey/   
 
-### License your code (licencia tu código)
+### Licencia tu código
 Guía que explica el proceso a seguir para poner tu código bajo una licencia determinada.
 
 Link de la guía: https://pblocz.github.io/libera-tu-codigo/    
 Link de Github: https://github.com/pblocz/libera-tu-codigo
 
-### A web for future students (Una web para futuros estudiantes)  
+### Una web para futuros estudiantes 
 El objetivo de este proyecto no es sólo facilitar el acceso a la información,
 sino también mostrarla de una manera más clara y más informal, ya que está dirigida a
 jóvenes que buscan mucha información simple y directa.
@@ -50,7 +50,7 @@ jóvenes que buscan mucha información simple y directa.
 Link de Github: https://github.com/Elp2015/TrabajoFinal   
 
 
-### Surfsafe (navega seguro)
+### Navega seguro
 
 El objetivo de este trabajo es ayudar a la sociedad a navegar con seguridad. Se dirige inicialmente a personas con
 poco o ningún conocimiento de las estafas de Internet (ejemplo: phishing).
