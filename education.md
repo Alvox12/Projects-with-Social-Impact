@@ -52,3 +52,9 @@ This project is the web application that stores and manages data used by OSRA. T
 http://www.agileventures.org/projects/osra-support-system
 
 https://github.com/AgileVentures/osra
+
+### VocApp
+
+The purpose of VocApp is to support refugees studying at university in a second language. Refugee students starting courses in Europe in a second language (English, German and French) often struggle in the initial stages with the academic and technical vocabulary used in their courses. They receive lots of offers language training to access university but this is conversational English or Turkish, and not the same as what their lecturer is saying in class. This means that refugee students, amongst other pressures, are not only learning their new subject and trying to become fluent in a new language, but also learning a new academic vocabulary. VocApp will be a web-based platform that provides contextualised translation of terms Arabic<>English/German/French, online support from Syrian peers and Syrian academics, and an intuitive learning software to help speed students' transition into a new course in an unfamiliar language.
+
+https://github.com/empowerhack/vocapp
