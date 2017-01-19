@@ -111,3 +111,9 @@ https://github.com/aptivate/africawatermap
 Plataforma para prometer entregar regalos a gente sin hogar y otras actividades de voluntariado
 
 https://github.com/stringbeans/homelesspartners
+
+### HomeLess
+
+HomeLess es un proyecto de mediano porte pensado para los mas necesitados de Uruguay. 
+
+https://github.com/homelessuy/HomeLess
