@@ -140,3 +140,10 @@ https://github.com/search?utf8=%E2%9C%93&q=social+impact
 A selection of projects, organisations and useful tools for social-impact tech
 
 https://github.com/TechforgoodCAST/awesome-techforgood
+
+### Spread
+
+Social impact platform to denounce discriminatory situations.
+Social inequality occurs when a group limit, reproach, discriminate and / or affect the status of another group, class or social circle, decreasing their access to their fundamental freedoms, depriving them of their rights assured as humans. Software, acting as a game-changer in our society, have great potential to produce a positive social impact and can even reduce inequality through social justice, considering its ubiquity in the modern world. This work, aims to bring relevant social change to communities through technology.
+
+https://github.com/johanngomes/spread
