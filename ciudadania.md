@@ -17,7 +17,7 @@ Se ha usado en sitios como Nueva Delhi, Sarajevo, etc.
 https://github.com/openaq  
 https://github.com/openaq/openaq-info
 
-### polygons (polígonos)
+### Polygons (polígonos)
 
 Un post jugable sobre cómo las decisiones inofensivas pueden hacer un mundo nocivo.
 Siéntete libre de usarlo donde quieras, puedes hacer un video, una adaptación del texto o modificarlo.
