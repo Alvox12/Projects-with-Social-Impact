@@ -26,3 +26,19 @@ More info: https://docs.moodle.org/32/en/Features
 Infosec_Reference is a reference which contains security information of the different technologic subjects.
 
 https://github.com/rmusser01/Infosec_Reference
+
+### University-Web
+
+We are a group of software developers who use our technical skills to make a real positive impact on the world. Rather than learning in a traditional classroom setting, we sharpen our skills by working on real projects while helping each other out.
+
+http://mendicantuniversity.org/
+
+https://github.com/mendicant-original/university-web
+
+### Core
+
+Gibbon is a flexible, open source school management platform designed to make life better for teachers, students, parents and leaders. 
+
+https://gibbonedu.org/
+
+https://github.com/GibbonEdu/core
