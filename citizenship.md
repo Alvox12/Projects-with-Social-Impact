@@ -135,3 +135,8 @@ A social network for users to contribute to society and donate to charities.
 
 https://github.com/search?utf8=%E2%9C%93&q=social+impact
 
+### Awesome tech for good
+
+A selection of projects, organisations and useful tools for social-impact tech
+
+https://github.com/TechforgoodCAST/awesome-techforgood
