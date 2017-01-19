@@ -100,19 +100,19 @@ https://github.com/codeforamerica/straymapper
 
 https://github.com/codeforamerica/straymapper
 
-### Africa WaterMap
+### Africa WaterMap (Mapa de Agua de África)
 
 Este proyecto es un mapa interactivo del acceso a agua y saneamiento en África.
 
 https://github.com/aptivate/africawatermap
 
-### HomelessPartners
+### HomelessPartners (Compañeros de personas sin hogar)
 
 Plataforma para prometer entregar regalos a gente sin hogar y otras actividades de voluntariado
 
 https://github.com/stringbeans/homelesspartners
 
-### HomeLess
+### HomeLess (Personas sin hogar)
 
 HomeLess es un proyecto de mediano porte pensado para los mas necesitados de Uruguay. 
 
