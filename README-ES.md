@@ -5,7 +5,7 @@ Ha sido creado en GitHub con el proposito de ser accesible para todo el mundo.
 
 Este proyecto es para la asignatura Ética, Legislación y Profesión (ELP) de la Universidad Complutense de Madrid.
 
-El proyecto se ha dividido en varias categorías para que fuera más fácil encontrar los difrentes proyectos.
+El proyecto se ha dividido en varias categorías para que fuera más fácil encontrar los diferentes proyectos.
 
 ### Tabla de Contenidos
 
@@ -17,11 +17,13 @@ El proyecto se ha dividido en varias categorías para que fuera más fácil enco
 
 * [Educación](educacion.md)   
 
-* [Salud](salud.md)
+* [Ética, Legislación y Profesión : Proyectos](ELP_Proyectos.md) 
 
 * [Licencias](licencias.md)
 
 * [Privacidad](privacidad.md)
+
+* [Salud](salud.md)
 
 
 
